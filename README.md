@@ -30,12 +30,8 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/reactjs.png"/>
+  <img src="https://user-images.githubusercontent.com/109091699/220793654-de664b1f-4d77-4d10-b94d-270317ebf210.png" style="width:48px;"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
