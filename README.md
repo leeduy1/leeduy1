@@ -19,7 +19,7 @@
   <a href="https://www.facebook.com/kicun.0" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/leeduy1" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
 </p>
