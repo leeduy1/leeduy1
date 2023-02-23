@@ -32,7 +32,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/typescript.png"/>
   <img src="https://user-images.githubusercontent.com/109091699/220793654-de664b1f-4d77-4d10-b94d-270317ebf210.png" style="width:48px;"/>
   <img src="https://user-images.githubusercontent.com/109091699/220794733-0571e4e6-29d6-4b68-8668-c9e36d515891.png" style="width:48px;/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
